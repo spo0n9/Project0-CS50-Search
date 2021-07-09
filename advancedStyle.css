@@ -1,0 +1,60 @@
+.navbar {
+    text-align: right;
+    color: black;
+}
+
+form {
+text-align: left;
+font: 1em sans-serif;
+margin: 10%;
+font-size: xx-large;
+}
+
+h1 {
+    font: 1em sans-serif;
+    font-size: x-large;
+}
+a:link {
+    color: rgb(0, 0, 0);
+    font: 1em sans-serif;
+    margin: 1%;
+    text-decoration: none;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: rgb(0, 0, 0);
+    font: 1em sans-serif;
+    text-decoration: none;
+    margin: 1%;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: rgb(0, 0, 0);
+    text-decoration: underline;
+    margin: 1%;
+  }
+  
+  /* selected link */
+  a:active {
+    color: blue;
+    text-decoration: underline;
+    margin: 1%;
+}
+
+input[type=text] {
+    width: 50%;
+    padding: .3%;
+    box-sizing: border-box;  
+}
+
+.SubmitAdvanced {
+        background-color: rgb(66, 133, 244);
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        display: inline-block;
+        font-size: 16px;
+}
